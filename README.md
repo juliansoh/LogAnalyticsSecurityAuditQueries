@@ -12,3 +12,7 @@ The basis of the queries will be based on EventIDs identified by the different s
 SecurityEvent
 | where EventID==528 or EventID==540 or EventID==4624
 | project TimeGenerated, Activity, Computer, IpAddress, AuthenticationPackageName, LogonProcessName, LogonTypeName, TargetAccount
+
+## Future work
+
+<a href="https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi">Importing Log Analytics data into PowerBI</a>
