@@ -16,3 +16,7 @@ SecurityEvent
 ## Future work
 
 <a href="https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi">Importing Log Analytics data into PowerBI</a>
+
+##Screenshot of query displaying Logon/Logoff events from monitored VMs
+
+<img src="https://github.com/juliansoh/LogAnalyticsSecurityAuditQueries/blob/master/Screenshots/LogAnalyticsQueryShowingLogonLogoffEvents.jpg">
