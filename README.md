@@ -1,4 +1,4 @@
-# LogAnalyticsSecurityAuditQueries
+# Log Analytics Security Audit Queries
 Security Audit queries in Log Analytics
 
 This repo tracks and documents queries in Log Analytics for key security events in Active Directory and Domain Controllers.
