@@ -13,9 +13,10 @@ SecurityEvent
 | where EventID==528 or EventID==540 or EventID==4624
 | project TimeGenerated, Activity, Computer, IpAddress, AuthenticationPackageName, LogonProcessName, LogonTypeName, TargetAccount
 
-## Future work
+## Future work and interesting references
 
 <a href="https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi">Importing Log Analytics data into PowerBI</a>
+<a href="https://blog.darrenjrobinson.com/azure-ad-log-analytics-kql-queries-via-api-with-powershell/">Using Log Analytics API and exporting to CSV</a>
 
 ## Screenshot of query displaying Logon/Logoff events from monitored VMs
 
