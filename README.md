@@ -16,6 +16,7 @@ SecurityEvent
 ## Future work and interesting references
 
 <a href="https://docs.microsoft.com/en-us/azure/azure-monitor/platform/powerbi">Importing Log Analytics data into PowerBI</a>
+
 <a href="https://blog.darrenjrobinson.com/azure-ad-log-analytics-kql-queries-via-api-with-powershell/">Using Log Analytics API and exporting to CSV</a>
 
 ## Screenshot of query displaying Logon/Logoff events from monitored VMs
